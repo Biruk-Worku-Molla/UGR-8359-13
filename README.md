@@ -1,1 +1,4 @@
-# Biruk Worku Molla --  UGR/8359/13 - - Section -- 4
+## 
+Name: Biruk Worku Molla 
+ID:UGR/8359/13 
+Section : 4
